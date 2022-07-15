@@ -10,9 +10,11 @@ The purpose of this is analysis is to determine what effects removing the 9th gr
 ![image](https://github.com/awill1786/School_District_Analysis/blob/main/Resources/cleaned%20district%20summary.jpg) 
 
 #### Original
-o	 
+
+![image](https://github.com/awill1786/School_District_Analysis/blob/main/Resources/original%20district%20summary.jpg)
+
 o	From the data it looks like the percent of students passing math and reading dropped by .1%. While the overall percentage of students passing dropped by .2%
-o	
+
 ### School Summary Results
 #### Cleaned
 o	 
